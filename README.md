@@ -1,6 +1,6 @@
 # nuxt-i18n-different-domains-and-prefixes
 
-
+Nuxt app with internationalization by @nuxtjs/i18n module. Combine prefix strategy and different domains
 
 ## Build Setup
 

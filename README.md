@@ -7,6 +7,7 @@ Problem - https://github.com/nuxt-community/i18n-module/issues/1161
 ## Build Setup
 
 [@nuxt/i18n](https://github.com/nuxt-community/i18n-module)
+
 [@nuxtjs/router](https://github.com/nuxt-community/router-module)
 
 ## Build Setup

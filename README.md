@@ -4,7 +4,7 @@ Nuxt app with internationalization by @nuxtjs/i18n module. Combine prefix strate
 
 Problem - https://github.com/nuxt-community/i18n-module/issues/1161
 
-## Build Setup
+## Packeges
 
 [@nuxt/i18n](https://github.com/nuxt-community/i18n-module)
 

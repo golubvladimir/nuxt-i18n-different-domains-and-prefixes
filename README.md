@@ -2,6 +2,8 @@
 
 Nuxt app with internationalization by @nuxtjs/i18n module. Combine prefix strategy and different domains
 
+Problem - https://github.com/nuxt-community/i18n-module/issues/1161
+
 ## Build Setup
 
 ```bash

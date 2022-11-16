@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-i18n-different-domains-and-prefixes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/telemetry": "^2.1.8",
+    "@nuxtjs/i18n": "^7.3.0",
+    "@nuxtjs/router": "^1.7.0",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  }
+}
